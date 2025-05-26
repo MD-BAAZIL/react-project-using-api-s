@@ -67,7 +67,6 @@ function App() {
         <h3>joke punch line : <strong>{joke.punchline}</strong></h3>
         </div> )
         }
-        nothing to say about jokes, just click the button to generate random jokes.
       </div>
     </div>
     
